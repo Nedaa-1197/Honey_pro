@@ -1,0 +1,196 @@
+body{
+	background-color: #d9d2c7;
+	
+}
+#h{
+	display: inline-block;
+	width: 100%;
+	height: 20px;
+	background-color: #ebe8e4;
+	margin: 0px;
+
+	
+}
+#h a{
+	color: #a19687;
+	text-decoration: none;
+	float: right;
+
+}
+
+
+
+header{
+	
+	display: inline-block;
+	height: 70px;
+	background-color: #fff;
+	width: 100%;
+	margin: 0px;
+	
+}
+#logo{
+
+	float: left;
+	height: 30px;
+	margin-left: 50px;
+	
+}
+h1{
+	margin: 0px;
+}
+nav{
+
+	display: inline-block;
+	float: right;
+	margin-right: 50px;
+	margin-top: 15px;
+	
+	
+}
+#f{
+	
+	float: right;
+	line-height: 10px;
+	text-align: center;
+	padding: 1px;
+}
+
+nav a{
+	padding: 15px;
+	text-decoration: none;
+	color: #a19687;
+}
+a:hover{
+	opacity: 0.6;
+
+}
+
+.o{
+	width: 20px;
+	height: 20px;
+	
+}
+#main{
+	clear: both;
+	margin: 0px;
+}
+#im1{
+	width: 100%;
+	height: 400px;
+	
+}
+h4,h5{
+
+	color: #a19687;
+}
+.pp{
+	color: black;
+
+}
+#cen{
+	
+	margin: 10px 500px 10px 500px;
+	
+	text-align: center;
+}
+
+.b{
+	float: center;
+	display: inline-block;
+	text-align: justify;
+	width: 21%;
+	margin: 20px;
+	color: #75736f;
+	padding: 5px;
+
+}
+.d{
+	background-color: #ebe8e4;
+	clear: both;
+	margin: 0px;
+	
+	height: 50px;
+	padding: 5px;
+	float: center;
+
+}
+
+#k{
+	margin-top: 2px;
+	width: 50px;
+	height: 50px;
+	float: left;
+}
+
+#w{
+	text-align: center;
+}
+.aa{
+	width: 280px;
+	height: 100px;
+
+}
+
+.z{
+	float: center;
+	display: inline-block;
+	text-align: justify;
+	width: 20%;
+	margin: 0px;
+	color: #5e5d5b;
+	padding: 5px;
+}
+.s{
+	color: #403f3d;
+}
+#t{
+	width: 50px;
+
+	
+}
+.p{
+	display: inline-block;
+	opacity: 0.6;
+	width: 70px;
+	height: 50px;
+	padding: 5px;
+}
+.p:hover{
+			opacity: 1;
+		}
+#l{
+	background-color: #75716a;
+	clear: both;
+	margin: 0px;
+	height: 50px;
+	padding: 5px;
+	width: 100%;
+	float: left;
+	vertical-align: middle;
+	display: inline-block;
+}
+#q{
+	text-align: left;
+	display: inline-block;
+	
+}
+#l #c{
+	float: right;
+	line-height: 25px;
+	padding: 1px;
+	display: inline-block;
+
+	
+}
+.x{
+	
+	width: 20px;
+	height: 20px;
+	margin-bottom: 10px;
+
+
+}
+h3{
+	color: black;
+}
